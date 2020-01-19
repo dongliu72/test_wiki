@@ -17,7 +17,7 @@
 
 # 主要产品
 ![avatar](OPL1000_picture.png)
-[OPL1000 WIFI/BLE双模低功耗芯片](https://opulinks.com/zh/products/)
+* [OPL1000 WIFI/BLE双模低功耗芯片](https://opulinks.com/zh/products/)
 
 
 # 联系我们
@@ -35,11 +35,11 @@
 
 
 # SDK和参考设计仓库
--[A1 SDK Github](https://github.com/Opulinks-Tech/OPL1000A1-SDK.git)
--[A2 SDK Github](https://github.com/Opulinks-Tech/OPL1000A2-SDK.git)
--[AWS cloud sensor Github](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Aws-Cloud-with-MQTT.git)
--[Coolkit cloud sensor Github](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Coolkit-Cloud-with-HTTPS.git)
--[Ali cloud sensor Github](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Ali-Cloud-with-MQTT.git)
--[Ali cloud light Github](https://github.com/Opulinks-Tech/OPL1000A2-Light-Control-Reference-Code-Ali-Cloud-with-MQTT.git)
--[link to temp_prj](https://github.com/dongliu72/temp-prj.git)
+* [A1 SDK Github](https://github.com/Opulinks-Tech/OPL1000A1-SDK.git)
+* [A2 SDK Github](https://github.com/Opulinks-Tech/OPL1000A2-SDK.git)
+* [AWS cloud sensor Github](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Aws-Cloud-with-MQTT.git)
+* [Coolkit cloud sensor Github](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Coolkit-Cloud-with-HTTPS.git)
+* [Ali cloud sensor Github](https://github.com/Opulinks-Tech/OPL1000A2-Sensor-Device-Reference-Code-Ali-Cloud-with-MQTT.git)
+* [Ali cloud light Github](https://github.com/Opulinks-Tech/OPL1000A2-Light-Control-Reference-Code-Ali-Cloud-with-MQTT.git)
+* [link to temp_prj](https://github.com/dongliu72/temp-prj.git)
 
